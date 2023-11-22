@@ -1,4 +1,7 @@
 
+# Asciinema demo
+[![asciicast](https://asciinema.org/a/622486.svg)](https://asciinema.org/a/622486)
+
 # Usage
 
 ```bash
